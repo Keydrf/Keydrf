@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build, lea
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/keysha-arindra-fabian)
+- 💼 [LinkedIn](https://www.linkedin.com/in/keysha-arindra-fabian-bb4470241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: arindrakeysha@gmail.com
 
 Thanks for stopping by! ✨
