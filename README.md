@@ -1,29 +1,99 @@
-# 👋 Hi there, I'm Keysha!
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;">
+      <img src="cat-wave.gif" width="80"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=3000&pause=1000&color=E6A4B4&center=true&vCenter=true&width=350&lines=Hi!+I'm+Keysha" />
+    </td>
+    <td style="border:none;">
+      <img src="cat-wave.gif" width="80"/>
+    </td>
+  </tr>
+</table>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to build, learn, and collaborate on tech projects.
 
-## 🚀 About Me
+<p align="center">
+  Fullstack & Web Developer 
+</p>
 
-- 🌱 I’m currently learning: Java, SQL, Web Development
-- 💬 Ask me about: Java programming, databases, and web development
-- ⚡ Fun fact: I enjoy coding while listening to lo-fi music 🎧
+---
 
-## 🛠️ Tech Stack
+## ୨୧ About Me
 
-- Languages: Java, PHP, JavaScript, SQL
-- Frontend: HTML, CSS, Bootstrap
-- Backend: PHP Native, Node.js
-- Database: MySQL, SQL Server
-- Tools: Git, GitHub, VS Code
+I enjoy turning ideas into structured and efficient applications.  
+Currently deepening my understanding of backend logic, database optimization, and dynamic web features.
 
-## 📈 GitHub Stats
+- Exploring REST API & MVC architecture  
+- Improving SQL performance & query optimization  
+- Building dynamic dashboards with AJAX & Chart.js  
+- Learning to write cleaner and more maintainable code  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keydrf&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keydrf&layout=compact&theme=radical)
+---
 
-## 📫 Let's Connect
+## ୨୧ Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/keysha-arindra-fabian-bb4470241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Email: arindrakeysha@gmail.com
+<p align="center">
 
-Thanks for stopping by! ✨
+<img src="https://img.shields.io/badge/Java-FFF5FA?style=for-the-badge&logo=java&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/PHP-FFF5FA?style=for-the-badge&logo=php&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/JavaScript-FFF5FA?style=for-the-badge&logo=javascript&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/MySQL-FFF5FA?style=for-the-badge&logo=mysql&logoColor=E75480"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML-FFF5FA?style=for-the-badge&logo=html5&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/CSS-FFF5FA?style=for-the-badge&logo=css3&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/Bootstrap-FFF5FA?style=for-the-badge&logo=bootstrap&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/Node.js-FFF5FA?style=for-the-badge&logo=node.js&logoColor=E75480"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/REST_API-FFF5FA?style=for-the-badge&logo=api&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/SQL_Server-FFF5FA?style=for-the-badge&logo=microsoftsqlserver&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-FFF5FA?style=for-the-badge&logo=microsoft&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/Git-FFF5FA?style=for-the-badge&logo=git&logoColor=E75480"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/GitHub-FFF5FA?style=for-the-badge&logo=github&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/VS_Code-FFF5FA?style=for-the-badge&logo=visualstudiocode&logoColor=E75480"/>
+<img src="https://img.shields.io/badge/Postman-FFF5FA?style=for-the-badge&logo=postman&logoColor=E75480"/>
+
+</p>
+
+---
+
+## ୨୧ GitHub Overview
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keydrf&show_icons=true&theme=default&title_color=E75480&icon_color=F8A5C2&text_color=444&bg_color=FFF0F5&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keydrf&layout=compact&title_color=E75480&text_color=444&bg_color=FFF0F5&hide_border=true" />
+</p>
+
+
+---
+
+## ୨୧ Currently Growing In
+
+- Writing cleaner & scalable backend code  
+- Improving database performance  
+- Structuring maintainable projects  
+- Becoming a better problem solver every day  
+
+---
+
+## ୨୧ Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/keysha-arindra-fabian-bb4470241" target="_blank">
+    <img src="https://img.icons8.com/fluency-systems-filled/96/ffffff/linkedin.png" width="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:arindrakeysha@gmail.com">
+    <img src="https://img.icons8.com/fluency-systems-filled/96/ffffff/new-post.png" width="48"/>
+  </a>
+</p>
+
+
+
