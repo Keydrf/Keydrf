@@ -1,16 +1,11 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr style="border:none;">
-    <td style="border:none;">
-      <img src="cat-wave.gif" width="80"/>
-    </td>
-    <td style="border:none;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=3000&pause=1000&color=E6A4B4&center=true&vCenter=true&width=350&lines=Hi!+I'm+Keysha" />
-    </td>
-    <td style="border:none;">
-      <img src="cat-wave.gif" width="80"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="cat-wave.gif" width="80"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=3000&pause=1000&color=E6A4B4&center=true&vCenter=true&width=350&lines=Hi!+I'm+Keysha" />
+  
+  <img src="cat-wave.gif" width="80"/>
+</p>
+
 
 
 <p align="center">
